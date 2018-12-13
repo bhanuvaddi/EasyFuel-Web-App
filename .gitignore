@@ -1,0 +1,8 @@
+qa_easyfuel_web/.idea/vcs.xml
+qa_easyfuel_web/.idea/workspace.xml
+qa_easyfuel_web/target/*
+qa_easyfuel_web/src/main/resources/BrowserConfig/BrowserDrivers/*.exe
+qa_easyfuel_web/css/*
+qa_easyfuel_web/js/*
+qa_easyfuel_web/img/*
+qa_easyfuel_web/*.html
